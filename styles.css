@@ -35,14 +35,14 @@ body {
     margin: 2px;
     cursor: pointer;
     border: none;
-    background: #607d8b;
+    background: rgb(145, 112, 145);
     color: white;
     border-radius: 25px;
 
 }
 .btn-green {
-    background-color: lightgreen;
-    color: #607d8b;
+    background-color: rgb(164, 151, 170);
+    color: #ffffff;
 }
 
 .textarea {
@@ -51,7 +51,7 @@ body {
     font-size: 20px;
     padding: 10px;
     border: none;
-    color: #607d8b;
+    color: #996f95;
     border-radius: 25px;
     text-align: right;  
 }
